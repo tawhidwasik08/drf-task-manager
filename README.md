@@ -1,7 +1,9 @@
 # Task Management System
 
-Submitted by
+Submitted by,
+
 Name: Wasikur Rahman
+
 email: tawhidwasik08@gmail.com
 
 ## Table of Contents
