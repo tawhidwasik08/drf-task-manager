@@ -1,0 +1,4 @@
+.vscode/
+tms_venv/
+__pycache__/
+notes.txt
