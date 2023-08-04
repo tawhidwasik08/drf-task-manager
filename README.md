@@ -1,4 +1,5 @@
 # Task Management System Backend
+A Task Management System Backend using Django Rest Framework (DRF) to handle user and task creation, assignment, and comments with API endpoints for user management and data retrieval. Includes Swagger UI integration for API documentation and comprehensive unit-testing coverage.
 ## Table of Contents
 
 - [Installation](#installation)
