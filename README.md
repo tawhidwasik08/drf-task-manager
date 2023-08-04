@@ -1,11 +1,4 @@
-# Task Management System
-
-Submitted by,
-
-Name: Wasikur Rahman
-
-email: tawhidwasik08@gmail.com
-
+# Task Management System Backend
 ## Table of Contents
 
 - [Installation](#installation)
